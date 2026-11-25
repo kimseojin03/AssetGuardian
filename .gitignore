@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/app/build
+/captures
+.cxx
+server/__pycache__
+server/.env
+guardian_memory.db
+server/guardian_memory.db
+.kotlin
+*.apk

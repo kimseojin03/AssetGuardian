@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.AssetGuardian" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#F4FBF9</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/bg</item>
+    </style>
+</resources>
